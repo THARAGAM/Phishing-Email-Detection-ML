@@ -72,13 +72,13 @@ The trained model achieved:
 
 **97.43% Accuracy**
 
+
 ### Classification Performance
 
-| Class | Precision | Recall | F1-Score |
-|---|---:|---:|---:|
-| Safe Email | 0.97 | 0.99 | 0.98 |
-| Phishing Email | 0.98 | 0.96 | 0.97 |
-
+| Class          | Precision | Recall | F1-Score |
+|----------------|----------:|-------:|---------:|
+| Safe Email     | 0.97      | 0.99   | 0.98     |
+| Phishing Email | 0.98      | 0.96   | 0.97     |
 ## Confusion Matrix
 
 The model correctly classified:
